@@ -137,12 +137,6 @@ Here you can see the archive of early prompts
 **Result**
 ![](https://cdn.midjourney.com/7f37e0a0-aedb-4d7f-974f-31caaaacadcd/grid_0.png)
 
-**Full Command:** Muses of AI as electronic circuits with screens and little robotic legs
-**Job ID:** 7f37e0a0-aedb-4d7f-974f-31caaaacadcd
-**Seed:** 3514480681
-**Result**
-![](https://cdn.midjourney.com/7f37e0a0-aedb-4d7f-974f-31caaaacadcd/grid_0.png)
-
 ## 20230311
 
 **Full Command:** raspberry pi with mechanical legs, a screen atached to one side in 60 degree angle, an oval acrylic around the screen
@@ -150,3 +144,11 @@ Here you can see the archive of early prompts
 **Seed:** 1722452766
 **Result**
 ![](https://cdn.midjourney.com/9e9acbdf-3797-42d3-bccd-1540e24d5b91/grid_0.png)
+
+## 20230311 2319h
+
+**Full Command:** muses of ai, nightmare
+**Job ID:** e8ff6694-2bf6-48fc-b709-547afc4a7fb2
+**Seed:** 706926008
+**Result**
+![](https://cdn.midjourney.com/e8ff6694-2bf6-48fc-b709-547afc4a7fb2/grid_0.png)
